@@ -1,0 +1,1 @@
+Our platform is built with a zero-retention, privacy-by-design architecture. The workflows you create are processed through our proprietary 'Bauta Valve' system, which ensures no personally identifiable or sensitive government information is ever retained or licensed. You get the benefit of the tool and the revenue from the data patterns, with zero risk.
